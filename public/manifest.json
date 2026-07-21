@@ -1,0 +1,22 @@
+{
+  "name": "Iveco Crossway Palubní Počítač",
+  "short_name": "Iveco Computer",
+  "description": "Simulátor palubního počítače autobusu Iveco Crossway",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#1a1a1a",
+  "theme_color": "#ffcc00",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/bus-icon/192/192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://picsum.photos/seed/bus-icon/512/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

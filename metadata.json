@@ -1,0 +1,6 @@
+{
+  "name": "Iveco Crossway Palubní Počítač",
+  "description": "Realistický simulátor palubního počítače autobusu Iveco Crossway s prodejem jízdenek, kamerami a telemetrií.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
